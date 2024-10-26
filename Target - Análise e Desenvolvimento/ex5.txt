@@ -1,0 +1,12 @@
+Resolver o problema dos três interruptores e três lâmpadas
+
+Solução:
+
+1 - Ligue o primeiro interruptor e deixe ligado por alguns minutos.
+2 - Desligue o primeiro interruptor e ligue o segundo interruptor.
+3 - Vá até a sala das lâmpadas.
+4 - A lâmpada que está acesa é controlada pelo segundo interruptor (o último ligado).
+5 - A lâmpada que está quente, mas apagada é controlada pelo primeiro interruptor (ligado inicialmente e depois desligado).
+6 - A lâmpada que está fria e apagada é controlada pelo terceiro interruptor (que ficou desligado o tempo todo).
+
+Conseguimos identificar qual interruptor controla cada lâmpada com apenas uma ida à sala das lâmpadas.
